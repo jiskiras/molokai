@@ -24,3 +24,6 @@ There is also an alternative scheme under development for color terminals which 
 let g:rehash256 = 1
 ```
 
+# Slight Modification
+
+For terms with 256 colors and using the solarized dark theme, I've set the ctermbg to 233 for normal text
